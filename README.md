@@ -1,12 +1,12 @@
-# XIAZU-CHEN — AI / ML ENGINEER
+# XIAOZU-CHEN — AI / ML ENGINEER
 
-Hi, I'm XiaZu-Chen, or you can call me Yonsen. I'm passionate about building intelligent systems, exploring deep learning architectures, and turning data into actionable solutions.
+Hi, I'm XiaoZu-Chen, or you can call me Yonsen. I'm passionate about building intelligent systems, exploring deep learning architectures, and turning data into actionable solutions.
 
 ---
 
 ### About Me
-- 🔭 **Currently working on:** Danica (Generalist Agentic AI), Fine-tuning LLMs, Robotics, Fusing STT, LLM & TTS model in one, and Researching Dynamic MoE, Researching One-shot Machine Learning
-- 🌱 **Currently learning:** Data Structuring with Python, MLOps, Rust, C++
+- **Currently working on:** Danica (Generalist Agentic AI), Fine-tuning LLMs, Robotics, Fusing STT, LLM & TTS model in one, and Researching Dynamic MoE, Researching One-shot Machine Learning
+- **Currently learning:** Data Structuring with Python, MLOps, Rust, C++
 
 ---
 
@@ -29,12 +29,3 @@ Hi, I'm XiaZu-Chen, or you can call me Yonsen. I'm passionate about building int
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=XiaZu-Chen&show_icons=true&theme=tokyonight&hide_border=true" alt="XiaZu-Chen's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaZu-Chen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
